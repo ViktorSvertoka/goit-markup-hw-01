@@ -65,4 +65,6 @@
 
 **`«B16»`** Тег `<address>` використаний тільки у футері.
 
+# Web Studio
+
 ![Web Page](./images/screencapture.png)
