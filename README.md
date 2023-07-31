@@ -66,3 +66,5 @@
 # Web Studio
 
 ![Web Page](./images/screencapture.png)
+
+---
